@@ -49,3 +49,11 @@
 ## 產出檔案
 - **trendstrategy_equity2024.ipynb**：包含完整資料清理、停損機制與參數最佳化回測程式碼。
 - **trendstrategy_results_equity2024.xlsx**：包含詳細交易明細、權益曲線、持股明細及績效總結。
+
+## 全週期回測績效 (2019-2024)
+- **參數**：SMA 100, ROC 10, MA Stop 15
+- **年化報酬率 (CAGR)**：65.66%
+- **最大回撤 (MaxDD)**：-43.68%
+- **Calmar Ratio**：1.50
+- **總報酬率**：1962.63%
+- **詳細明細見**：trendresults_20192024.xlsx
